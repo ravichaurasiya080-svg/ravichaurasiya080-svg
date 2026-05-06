@@ -21,7 +21,7 @@ Curious about Artificial Intelligence, passionate about technology, and focused 
 <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
-<img align="right" width="360" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="AI Hacker GIF"/>
+<img align="right" width="360" src="[https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif](https://media1.tenor.com/m/beHXzmR7NoUAAAAd/mark-zuckerberg-and-im-sorry.gif)" alt="AI Hacker GIF"/>
 
 ---
 
