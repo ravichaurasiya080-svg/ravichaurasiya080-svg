@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">
 ⚡ Hey, I'm Ravi ⚡
 </h1>
@@ -114,4 +114,4 @@ while True:
 <h3 align="center">
 ⚡ Building the future one line of code at a time ⚡
 </h3>
-```
+
