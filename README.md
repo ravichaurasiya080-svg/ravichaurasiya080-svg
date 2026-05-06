@@ -12,7 +12,7 @@ Curious about Artificial Intelligence, passionate about technology, and focused 
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Future+AI+Engineer;Building+Cool+Projects+With+Code;Always+Learning+New+Things+⚡" />
+<img src="https://media.tenor.com/KYrY9byVkD0AAAAi/little-guy.gif" />
 </p>
 
 <p align="center">
