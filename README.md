@@ -1,73 +1,96 @@
+````md
+<h1 align="center">
+⚡ Hey, I'm Ravi ⚡
+</h1>
 
-<h1 align="center">Hey 👋, I'm Ravi</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Python Learner | Future Full Stack Developer</h3>
+<h3 align="center">
+🤖 AI & Machine Learning Enthusiast • 🐍 Python Learner • 🚀 Future AI Engineer
+</h3>
 
 <p align="center">
-Curious about AI, passionate about technology, and constantly learning new things to turn ideas into real projects 🚀
+Curious about Artificial Intelligence, passionate about technology, and focused on building futuristic projects one step at a time ⚡
 </p>
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding gif"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Future+AI+Engineer;Building+Cool+Projects+With+Code;Always+Learning+New+Things+⚡" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/Learning-Python-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
+</p>
+
+<img align="right" width="360" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="AI Hacker GIF"/>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-- 🎓 Computer Science student
-- 🤖 Currently exploring **AI & Machine Learning**
-- 🐍 Learning **Python** and backend concepts
-- 🌐 Know basics of **HTML, CSS & JavaScript**
-- ⚡ Interested in building futuristic AI tools
-- 🚀 Goal: Become an AI Engineer & Indie Builder
+```bash
+> Computer Science Student
+> Exploring Artificial Intelligence
+> Learning Python & Backend Concepts
+> Interested in futuristic technologies
+> Building projects and improving daily ⚡
+````
+
+* 🎓 Computer Science student
+* 🤖 Currently exploring **AI & Machine Learning**
+* 🐍 Learning **Python** and backend development
+* 🌐 Know **HTML, CSS & JavaScript**
+* ⚡ Interested in futuristic AI systems
+* 🚀 Goal: Become an AI Engineer & Indie Builder
 
 ---
 
-## 🛠️ Skills
+# ⚒️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,c,git,github,vscode" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- Python for AI & Automation
-- Machine Learning basics
-- Git & GitHub
-- JavaScript projects
-- Problem Solving
-
----
-
-## 🚀 Future Goals
-
-✔ Build AI-powered applications  
-✔ Learn Deep Learning & Neural Networks  
-✔ Create my own AI Assistant  
-✔ Contribute to Open Source  
-✔ Become financially independent through tech  
+* Python for AI & Automation
+* Machine Learning Basics
+* JavaScript Projects
+* Git & GitHub
+* Problem Solving & Logic Building
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Future Goals
 
+✔ Build AI-powered applications
+✔ Learn Deep Learning & Neural Networks
+✔ Create my own AI Assistant
+✔ Contribute to Open Source
+✔ Become financially independent through technology
 
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ravichaurasiya080-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravichaurasiya080-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravichaurasiya080-svg&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://github.com/ravichaurasiya080-svg" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://linkedin.com/in/Mr Ravi" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:ravichaurasiya080@gmail.com">
@@ -77,11 +100,18 @@ Curious about AI, passionate about technology, and constantly learning new thing
 
 ---
 
-## 💭 Quote I Follow
+# 💭 Philosophy
 
-> "Small progress every day leads to big results."
+```python
+while True:
+    learn()
+    build()
+    improve()
+```
 
 ---
 
-<h3 align="center">⭐ Building my future one line of code at a time.</h3>
-
+<h3 align="center">
+⚡ Building the future one line of code at a time ⚡
+</h3>
+```
