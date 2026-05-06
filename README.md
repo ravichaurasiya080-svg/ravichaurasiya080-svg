@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hey 👋, I'm Ravi</h1>
 <h3 align="center">AI & Machine Learning Enthusiast | Python Learner | Future Full Stack Developer</h3>
 
@@ -88,4 +88,4 @@ Curious about AI, passionate about technology, and constantly learning new thing
 ---
 
 <h3 align="center">⭐ Building my future one line of code at a time.</h3>
-```
+
