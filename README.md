@@ -54,7 +54,7 @@ Curious about AI, passionate about technology, and constantly learning new thing
 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravichaurasiya080-svg&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
 ---
