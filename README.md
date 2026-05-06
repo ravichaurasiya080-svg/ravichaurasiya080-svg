@@ -21,7 +21,7 @@ Curious about Artificial Intelligence, passionate about technology, and focused 
 <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
-<img align="right" width="360" src="[https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif](https://media1.tenor.com/m/beHXzmR7NoUAAAAd/mark-zuckerberg-and-im-sorry.gif)" alt="AI Hacker GIF"/>
+<img align="right" width="360" src="https://media1.tenor.com/m/beHXzmR7NoUAAAAd/mark-zuckerberg-and-im-sorry.gif"/>
 
 ---
 
@@ -74,11 +74,7 @@ Curious about Artificial Intelligence, passionate about technology, and focused 
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ravichaurasiya080-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravichaurasiya080-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravichaurasiya080-svg&theme=tokyonight&hide_border=true&background=0D1117"/>
@@ -96,7 +92,14 @@ Curious about Artificial Intelligence, passionate about technology, and focused 
 <a href="mailto:ravichaurasiya080@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
+
+<a href="https://www.linkedin.com/in/mr-ravi-a3653b402/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
 </p>
+
+
 
 ---
 
